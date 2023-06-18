@@ -1,0 +1,11 @@
+.navbar img{
+    height: 60px;
+    float: left;
+}
+.navbar{
+    height: 10vh;
+    background-color: white;
+    padding-top: 10px;
+    padding-left: 10px;
+    box-shadow: 0 2px 1px whitesmoke;
+}
